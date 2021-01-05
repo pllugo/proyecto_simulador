@@ -1,0 +1,19 @@
+Parametro,COV,Condiciones del noroeste de Europa,Condiciones urbanas de USA
+A,alifaticos,100,154
+A,aromaticos con 0 sustituyentes alquilos,66,25
+A,aromaticos con 1 sustituyentes alquilos,130,320
+A,aromaticos con 2 sustituyentes alquilos,173,427
+A,aromaticos con 3 sustituyentes alquilos,206,509
+B,todos,4,1
+alfa,todos,0.56,0.37
+C,todos,0.0038,0.0041
+beta,todos,2.7,2.7
+D,alifaticos,0.38,0.25
+epsilon,alifaticos,0.16,0.18
+P,aldehidos y cetonas,14,10
+P,alfa-dicarbonilos,67,124
+P,ciclocetonas,0,0
+E,alquenos y oxigenados insaturados,20.9,22
+lambda,alquenos y oxigenados insaturados,0.043,0.15
+Q,benzaldehidos y estirenos,74,80
+Q,hidroxiarenos,41,
